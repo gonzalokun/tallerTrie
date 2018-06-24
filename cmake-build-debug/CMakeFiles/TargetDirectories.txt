@@ -1,0 +1,16 @@
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/correrTests.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/correrValgrind.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/install.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/list_install_components.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/gtest.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/gtest_main.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/install/local.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/install.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/edit_cache.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/rebuild_cache.dir
+C:/Proyectos/tallerTrie/cmake-build-debug/tests/google-test/CMakeFiles/install/strip.dir
