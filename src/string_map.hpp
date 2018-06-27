@@ -1,6 +1,8 @@
 #define CANTCHAR 256
 #include <stack>
 
+
+
 template <typename T>
 string_map<T>::string_map(){
     //Creo el diccionario vacio
@@ -59,6 +61,8 @@ template <typename T>
 string_map<T>::~string_map(){
     delete raiz;
 
+    //std::cout << "BORRE LA RAIZ" << std::endl;
+
     raiz = nullptr;
     _size = 0;
 }
@@ -67,8 +71,19 @@ string_map<T>::~string_map(){
 
 template <typename T>
 string_map<T>::Nodo::~Nodo() {
+
     delete definicion;
+
+    //std::cout << "BORRE LA DEF" << std::endl;
+
+    for(int i = 0; i < CANTCHAR; i++){
+        delete (siguientes[i]);
+    }
+
     delete[] siguientes;
+
+    //std::cout << "BORRE LOS SIGUIENTES" << std::endl;
+
 }
 
 //
